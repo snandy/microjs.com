@@ -2880,5 +2880,12 @@ module.exports = [
     description: "Promises/A+ micro library to help with asynchronous work flow.",
     url: "https://github.com/avoidwork/assure",
     source: "https://raw.github.com/avoidwork/assure/master/lib/assure.js"
+  },
+  {
+    name: "class",
+    tags: ["language", "class"],
+    description: "Small, elegant, powerful, and cross platform JavaScript OOP library. Support class, inheritance, namespace, private and more.",
+    url: "https://github.com/snandy/class",
+    source: "https://github.com/snandy/class/blob/master/class.src.js"
   }
 ];
